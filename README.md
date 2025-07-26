@@ -78,8 +78,10 @@ It will:
 
 Set your base location:
 
-BASE_LAT, BASE_LON = 38.9072, 77.0369   # Example: Washington D.C.
+  BASE_LAT, BASE_LON = 38.9072, 77.0369   # Example: Washington D.C.
+
 It needs to be pointing north as its 'center' for it to point accuratly as thats where i told it it was pointing in the code
+
 You can change that along with the degree stoppers as currrently it cant point south/ 180 degrees from center
 
 🎤 Wake Word + Voice Control

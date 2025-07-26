@@ -1,0 +1,17 @@
+[project]
+name = "jarvis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "elevenlabs>=2.7.1",
+    "faster-whisper>=1.1.1",
+    "geopy>=2.4.1",
+    "numpy>=2.2.1",
+    "openai>=1.96.1",
+    "openwakeword==0.6.0",
+    "pyaudio>=0.2.14",
+    "pyserial>=3.5",
+    "scipy>=1.15.0",
+]

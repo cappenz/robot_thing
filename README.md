@@ -43,7 +43,7 @@ elevenlabs_api_key – from ElevenLabs
 
 🛠 Hardware Setup
 Make sure your hardware it set up correctly
-
+![Image](https://github.com/user-attachments/assets/23d87309-58dd-4777-822a-ed31c1b43551)
 Servos:
 Servo1: Pan left/right (0–180°)
 Servo2: Tilt up/down (0–90°)
